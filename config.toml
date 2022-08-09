@@ -176,8 +176,8 @@ rss = 10
 enable = true
 # Gravatar Email for preferred avatar in home page
 gravatarEmail = ""
-# URL of avatar shown in home page
-avatarURL = "/images/avatar5.png"
+# URL of avatar shown in home page (relative to /assets)
+avatarURL = "/images/avatar4.png"
 #  title shown in home page (HTML format is supported)
 title = "Kye Yaǧmur."
 # subtitle shown in home page (HTML format is supported)

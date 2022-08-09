@@ -1,10 +1,11 @@
 {{- $profile := .Site.Params.home.profile -}}
 <div class="home-profile">
-    {{- $avatar := $profile.avatarURL -}}
+    {{- $image := resources.Get $profile.avatarURL -}}
+    {{- $image := $image.Resize "192x" -}}
     {{- with $profile.gravatarEmail -}}
         {{- $avatar = md5 . | printf "https://www.gravatar.com/avatar/%v?s=240&d=mp" -}}
     {{- end -}}
-    {{- if $avatar -}}
+    {{- if $image -}}
         <div class="home-avatar">
             {{- $menus := $.Site.Menus.main | default slice -}}
             {{- with index $menus 0 -}}
@@ -13,10 +14,10 @@
                     {{- $url = .RelPermalink -}}
                 {{- end -}}
                 <a href="{{ $url }}"{{ with .Title | default .Name }} title="{{ . }}"{{ end }}{{ if (urls.Parse $url).Host }} rel="noopener noreffer" target="_blank"{{ end }}>
-                    {{- dict "Src" $avatar | partial "plugin/img.html" -}}
+                    {{- dict "Src" $image.Permalink | partial "plugin/img.html" -}}
                 </a>
             {{- else -}}
-                {{- dict "Src" $avatar | partial "plugin/img.html" -}}
+                {{- dict "Src" $image.Permalink | partial "plugin/img.html" -}}
             {{- end -}}
         </div>
     {{- end -}}
