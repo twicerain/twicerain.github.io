@@ -217,8 +217,8 @@ VK = ""
 Flickr = ""
 Xing = ""
 Snapchat = ""
-Soundcloud = "xxxx"
-Spotify = "xxxx"
+Soundcloud = "twicerain"
+Spotify = "36NahICqAtxFX6oirqBTYM?si=OuekPfFTSTmceTcxjJga4w"
 Bandcamp = ""
 Paypal = ""
 Fivehundredpx = ""
@@ -264,9 +264,9 @@ Plume = ""
 HackTheBox = ""
 RootMe = ""
 Phone = ""
-Artstation = "xxxx"
+Artstation = "twicerain"
 Email = ""
-RSS = false         # 
+RSS = false                                                  # 
 
 #  Page global config
 [params.page]

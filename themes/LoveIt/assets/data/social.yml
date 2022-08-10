@@ -217,7 +217,7 @@ soundcloud:
 # 028: Spotify
 spotify:
   Weight: 28
-  Prefix: https://open.spotify.com/user/
+  Prefix: https://open.spotify.com/artist/
   Title: Spotify
   Icon:
     Class: fab fa-spotify fa-fw

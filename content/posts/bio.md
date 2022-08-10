@@ -15,10 +15,10 @@ Hi, my name is Kye, or rainrain, and I'm a designer, primarily of the sound vari
 My passion in creative work is born of the problem solving process. I love tackling a new project and working out the most efficient way to solve a problem or meet a unique result & challenging goal, and the reward of finishing, leaving with new skills and ability. I am always studying and staying in touch with these evolving fields to ensure I can begin any project with the best base to launch from.
 
 ###### My success
-In music, my success has come from spotify under the alias "Awae", releasing a future bass track titled Hold Me, with Damned & Layna, and a solo remix as "rainrain". In working with photography and videography I was able to write a segment at the ABC in Adelaide called "The Strum", which provided local musicians an opportunity to cover their own music and promote upcoming events they would be involved in. I launched packages for businesses including a vineyard and a contruction resources company, involving logos, websites, and other assets.
+In music, my success has come from Spotify under the alias "Awae", releasing a future bass track titled Hold Me, with Damned & Layna, and a solo remix as "rainrain". In working with photography and videography I was able to write a segment at the ABC in Adelaide called "The Strum", which provided local musicians an opportunity to cover their own music and promote upcoming events they would be involved in. I launched packages for businesses including a vineyard and a contruction resources company, involving logos, websites, and other assets.
 
 ###### My studies
-During my studies so far I have recieved high distinction for grading top of my classes in analogue audio and electronics, virtual reality design and scoring 100% across assignments in 3D Imaging and my music has been used as an example at my previous university, SAE.
+During my studies so far I have recieved high distinction for grading top of my classes in analogue audio and electronics, virtual reality design and scoring 100% across assignments in 3D Imaging. At my previous university, SAE (School of Audio Engineering), a well-renown globally established institution, my music has been used as an example for following students.
 
 ###### My goal
 I am continuing study at university and am focused on honing my skills in my fields to grow an edge in these competitive industries. My goal is to pursue a long lasting career in design. 
