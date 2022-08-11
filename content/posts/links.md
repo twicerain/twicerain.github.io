@@ -1,9 +1,10 @@
 ---
 title: "links"
 description: "what you'll find where you find it"
-date: 2022-08-07T21:49:49+09:30
+date: 2022-08-11
 draft: false
 HiddenFromHomePage: false
+weight: "2"
 summary: "What you'll find where you find it..."
 ---
 

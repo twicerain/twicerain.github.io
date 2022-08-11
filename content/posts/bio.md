@@ -1,10 +1,11 @@
 ---
 title: "bio"
 description: "My name, my passion, my success, my study and my goal"
-date: 2022-08-07T21:49:49+09:30
+date: 2022-08-09
 draft: false
 HiddenFromHomePage: false
 toc: false
+weight: "1"
 summary: "Hi, my name is Kye, or rainrain, and I'm a designer. I am focused on honing my skills in my fields of audio, 3d and design..."
 ---
 
