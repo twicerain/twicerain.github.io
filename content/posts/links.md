@@ -4,7 +4,7 @@ description: "what you'll find where you find it"
 date: 2022-08-07T21:49:49+09:30
 draft: false
 HiddenFromHomePage: false
-summary: "what you'll find where you find it"
+summary: "What you'll find where you find it..."
 ---
 
 ## [Posts]({{< ref "/posts" >}})
