@@ -42,7 +42,7 @@ On my artstation you will find rendered images, models, effects and any other ma
 
 ### Vimeo
 
-If enough projects build up involving animation, loop or any other video format, I will create a vimeo account to share the footage.
+If enough projects build up involving animation, loops or any other video format, I will create a vimeo account to share the footage.
 
 ## Social Media
 
@@ -56,5 +56,5 @@ Follow me so you don't miss when if I'm live.
 
 ### [Youtube](https://www.youtube.com/channel/UCLryL8zSBTvhyylGDFIMDjg)
 
-Subscribe incase I upload a video.
+Subscribe incase I slip & upload a video.
 
