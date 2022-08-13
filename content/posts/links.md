@@ -60,4 +60,6 @@ If enough projects build up involving animation, loops or any other video format
 
 [Subscribe](https://www.youtube.com/channel/UCLryL8zSBTvhyylGDFIMDjg) in case I slip & upload a video.
 
+___
+
 See also: [bio](/bio)
