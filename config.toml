@@ -59,11 +59,11 @@ gitRepo = ""
 # ["sha256", "sha384", "sha512", "md5"]
 fingerprint = ""
 #  date format
-dateFormat = "2006-01-02"
+dateFormat = "2006 Jan 02"
 # website title for Open Graph and Twitter Cards
 title = "Kye Seyhun"
 # website description for RSS, SEO, Open Graph and Twitter Cards
-description = "Creative Works"
+description = "Audio Visual Designer"
 # website images for Open Graph and Twitter Cards
 images = ["/logo.png"]
 
@@ -76,7 +76,7 @@ mobileMode = "auto"
 #  Header title config
 [params.header.title]
 # URL of the LOGO
-logo = ""
+logo = "/logo.png"
 # title name
 name = "rainrain"
 # you can add extra information before the name (HTML format is supported), such as icons
@@ -109,7 +109,7 @@ icp = ""
 # special amount of posts in each section page
 paginate = 20
 # date format (month and day)
-dateFormat = "01-02"
+dateFormat = "Jan 02"
 # amount of RSS pages
 rss = 10
 
@@ -118,24 +118,24 @@ rss = 10
 # special amount of posts in each list page
 paginate = 20
 # date format (month and day)
-dateFormat = "Jan-02"
+dateFormat = "Jan 02"
 # amount of RSS pages
 rss = 10
 
 #  App icon config
 [params.app]
 # optional site title override for the app when added to an iOS home screen or Android launcher
-title = "rainrain"
+# title = "rainrain"
 # whether to omit favicon resource links
-noFavicon = false
+noFavicon = true
 # modern SVG favicon to use in place of older style .png and .ico files
 svgFavicon = "favicon.svg"
 # Android browser theme color
-themeColor = "#ffffff"
+# themeColor = "#ffffff"
 # Safari mask icon color
-iconColor = "#5bbad5"
+# iconColor = "#5bbad5"
 # Windows v8-10 tile color
-tileColor = "#da532c"
+# tileColor = "#da532c"
 
 #  Search config
 [params.search]
@@ -169,11 +169,11 @@ enable = true
 # Gravatar Email for preferred avatar in home page
 gravatarEmail = ""
 # URL of avatar shown in home page (relative to /assets)
-avatarURL = "/images/avatar4.png"
+avatarURL = "/images/avatar.png"
 #  title shown in home page (HTML format is supported)
 title = "Kye Yaǧmur."
 # subtitle shown in home page (HTML format is supported)
-subtitle = "Creative works, occasionally"
+subtitle = "Audio Visual Designer"
 # whether to use typeit animation for subtitle
 typeit = true
 # whether to show social links

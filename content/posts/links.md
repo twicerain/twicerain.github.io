@@ -8,21 +8,21 @@ weight: "2"
 summary: "What you'll find where you find it..."
 ---
 
-## [Posts]({{% ref "/posts" %}})
+## Posts
 
-Here you will find posts including tutorials or guides, thoughts and discussion, breakdowns of projects and the processes I went through. This will be a more casual though breakdown and thought process, for more technical breakdowns visit the relevant website found on this page.
+Here you will find [posts]({{% ref "/posts" %}}) including tutorials or guides, thoughts and discussion, breakdowns of projects and the processes I went through. This will be a more casual though breakdown and thought process, for more technical breakdowns visit the relevant website found on this page.
 
 ## Music
 
-### [Soundcloud](https://soundcloud.com/twicerain)
+### Soundcloud
 
-On my soundcloud you can expect to find music I have released publicly any of my past aliases or current. If enough projects build up involving sound design, sound tracks for visual and interactive media etc, I will make a new soundcloud to share the audio.
+On my [Soundcloud](https://soundcloud.com/twicerain) you can expect to find music I have released publicly any of my past aliases or current. If enough projects build up involving sound design, sound tracks for visual and interactive media etc, I will make a new soundcloud to share the audio.
 
 {{< soundcloud-track 216131171 >}}
 
-### [Spotify](https://open.spotify.com/artist/36NahICqAtxFX6oirqBTYM)
+### Spotify
 
-I have two spotify accounts currently, one under my past alias as Awae, and a new one as Rainrain. You will generally find my most recent releases, and less music than what is avaliable on my soundcloud.
+I have two [Spotify](https://open.spotify.com/artist/36NahICqAtxFX6oirqBTYM) accounts currently, one under my past alias as Awae, and a new one as Rainrain. You will generally find my most recent releases, and less music than what is avaliable on my soundcloud.
 
 #### Rainrain
 
@@ -34,9 +34,9 @@ I have two spotify accounts currently, one under my past alias as Awae, and a ne
 
 ## Art
 
-### [Artstation](https://www.artstation.com/twicerain)
+### Artstation
 
-On my artstation you will find rendered images, models, effects and any other manner of 3D result. There are breakdowns on the technical aspects of projects and models, challenges and how I overcame them.
+On my [Artstation](https://www.artstation.com/twicerain) you will find rendered images, models, effects and any other manner of 3D result. There are breakdowns on the technical aspects of projects and models, challenges and how I overcame them.
 
 [{{< figure src="/images/artstation.png" >}}](https://www.artstation.com/twicerain)
 
@@ -46,15 +46,15 @@ If enough projects build up involving animation, loops or any other video format
 
 ## Social Media
 
-### [Instagram](https://www.instagram.com/twicerain)
+### Instagram
 
-Follow, you might find photos of or taken by me.
+[Follow](https://www.instagram.com/twicerain), you might find photos of or taken by me.
 
-### [Twitch](https://www.twitch.tv/twicerain/videos)
+### Twitch
 
-Follow me so you don't miss when if I'm live.
+[Follow](https://www.twitch.tv/twicerain/videos) me so you don't miss when if I'm live.
 
-### [Youtube](https://www.youtube.com/channel/UCLryL8zSBTvhyylGDFIMDjg)
+### Youtube
 
-Subscribe incase I slip & upload a video.
+[Subscribe](https://www.youtube.com/channel/UCLryL8zSBTvhyylGDFIMDjg) in case I slip & upload a video.
 
