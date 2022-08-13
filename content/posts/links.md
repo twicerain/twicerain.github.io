@@ -8,6 +8,8 @@ weight: "2"
 summary: "What you'll find where you find it..."
 ---
 
+# Platforms
+
 ## Posts
 
 Here you will find [posts]({{% ref "/posts" %}}) including tutorials or guides, thoughts and discussion, breakdowns of projects and the processes I went through. This will be a more casual though breakdown and thought process, for more technical breakdowns visit the relevant website found on this page.
@@ -58,3 +60,4 @@ If enough projects build up involving animation, loops or any other video format
 
 [Subscribe](https://www.youtube.com/channel/UCLryL8zSBTvhyylGDFIMDjg) in case I slip & upload a video.
 
+See also: [bio](/bio)
