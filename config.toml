@@ -51,8 +51,6 @@ url = "/posts/"
 title = ""
 
 [params]
-# Google Analytics 4
-GoogleAnalyticsID = "G-EZYYFFMX1D"
 # site default theme ["auto", "light", "dark"]
 defaultTheme = "auto"
 # public git repo url only then enableGitInfo is true
@@ -498,6 +496,9 @@ enable = true
 # Google Analytics
 [params.analytics.google]
 id = "UA-237911857-3"
+# Google Analytics GA4 - Kye
+[params.analytics.ga4]
+id = "G-EZYYFFMX1D"
 # whether to anonymize IP
 anonymizeIP = true
 # Fathom Analytics
