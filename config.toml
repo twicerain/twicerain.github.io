@@ -51,6 +51,8 @@ url = "/posts/"
 title = ""
 
 [params]
+# Google Analytics 4
+googleAnalyticsID = "G-EZYYFFMX1D"
 # site default theme ["auto", "light", "dark"]
 defaultTheme = "auto"
 # public git repo url only then enableGitInfo is true
