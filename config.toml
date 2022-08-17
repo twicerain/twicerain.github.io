@@ -497,7 +497,7 @@ enable = true
 [params.analytics.google]
 id = "G-EZYYFFMX1D"
 # whether to anonymize IP
-anonymizeIP = true
+anonymizeIP = false
 # Fathom Analytics
 [params.analytics.fathom]
 id = ""
