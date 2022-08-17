@@ -495,7 +495,7 @@ thumbnailUrl = ""
 enable = false
 # Google Analytics
 [params.analytics.google]
-id = ""
+id = "3989344664"
 # whether to anonymize IP
 anonymizeIP = true
 # Fathom Analytics
