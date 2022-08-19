@@ -103,7 +103,7 @@ you've no doubt noticed that there is no portfolio page,
 let alone interactive 3D experiences.
 
 With one week left, I decided that I needed to take a step back and start with a more _realistic goal_.
-After reconsidering I realised I don't need a portfolio for audio and images when [services for that](https://rainrain.io/links/) already exist.
+After reconsidering, I realised I don't need a portfolio for audio and images when [services for that](https://rainrain.io/links/) already exist.
 
 As a result of that, I now have a website.
 It doesn't have all the bells and whistles,
@@ -281,8 +281,6 @@ With my portfolios hosted on other services,
 this blog is designed to be used for discussion taken a step back from the technical details of my work.
 {{< /admonition >}}
 
-For an indepth look at how I approached a project and the technicalities behind it,
+For an in-depth look at how I approached a project and the technicalities behind it,
 you can find them on the relevant portfolio website, links for all of which can be found [here](https://rainrain.io/links/).
-
-If you would like to discuss further or reach out you can do so from any of my [links](https://rainrain.io/links/),
-or [email me](https://rainrain.io/bio/#my-goal).
+Alternatively, you can contact me directly via [email](mailto:kyeyagmur@gmail.com).
