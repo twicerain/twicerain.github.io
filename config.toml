@@ -363,7 +363,7 @@ enable = true
 # Disqus comment config
 [params.page.comment.disqus]
 # 
-enable = true
+enable = false
 # Disqus shortname to use Disqus in posts
 shortname = "twicerain"
 # Gitalk comment config
@@ -419,7 +419,7 @@ outlined = false
 enable = false
 #  utterances comment config
 [params.page.comment.utterances]
-enable = false
+enable = true
 # owner/repo
 repo = "twicerain/twicerain.github.io"
 issueTerm = "pathname"
