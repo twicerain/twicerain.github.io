@@ -287,4 +287,6 @@ this blog is designed to be used for discussion taken a step back from the techn
 
 For an in-depth look at how I approached a project and the technicalities behind it,
 you can find them on the relevant portfolio website, links for all of which can be found [here](https://rainrain.io/links/).
-Alternatively, you can contact me directly via [email](mailto:kyeyagmur@gmail.com).
+
+Leave a comment below if you would like to discuss the topic further,
+or alternatively, you can contact me directly via [email](mailto:kyeyagmur@gmail.com).
