@@ -425,7 +425,7 @@ repo = "twicerain/twicerain.github.io"
 issueTerm = "pathname"
 label = "comment"
 lightTheme = "github-light"
-darkTheme = "github-dark"
+darkTheme = "preferred-color-scheme"
 # giscus comment config (https://giscus.app/)
 [params.page.comment.giscus]
 # You can refer to the official documentation of giscus to use the following configuration.
