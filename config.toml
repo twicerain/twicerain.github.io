@@ -359,7 +359,7 @@ Trello = false
 Mix = false
 #  Comment config
 [params.page.comment]
-enable = false
+enable = true
 # Disqus comment config
 [params.page.comment.disqus]
 # 
@@ -419,11 +419,11 @@ outlined = false
 enable = false
 #  utterances comment config
 [params.page.comment.utterances]
-enable = false
+enable = true
 # owner/repo
-repo = ""
+repo = "twicerain/twicerain.github.io"
 issueTerm = "pathname"
-label = ""
+label = "comment"
 lightTheme = "github-light"
 darkTheme = "github-dark"
 # giscus comment config (https://giscus.app/)
@@ -512,7 +512,7 @@ id = ""
 
 #  Cookie consent config
 [params.cookieconsent]
-enable = false
+enable = true
 # text strings used for Cookie consent banner
 [params.cookieconsent.content]
 message = ""

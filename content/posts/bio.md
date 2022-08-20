@@ -6,6 +6,8 @@ draft: false
 HiddenFromHomePage: false
 weight: "1"
 summary: "Hi, my name is Kye, or rainrain, and I'm a designer. I am focused on honing my skills in my fields of audio visual design."
+comment:
+  enable: false
 ---
 
 ## Who Am I

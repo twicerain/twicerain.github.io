@@ -1,11 +1,15 @@
 ---
 title: "what I learnt building rainrain.io"
+subtitle: "realistic goals"
 description: "How I made my website, and how I've learnt from it."
-date: 2022-08-19
+date: "2022-08-19"
+lastmod: "2022-08-20"
 draft: false
 HiddenFromHomePage: false
 weight: "3"
 summary: "A post about keeping ambitions realistic, drawing on my recent experience creating this app."
+comment:
+  enable: true
 ---
 
 ## Introduction
